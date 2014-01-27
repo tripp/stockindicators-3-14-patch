@@ -4,6 +4,7 @@
         "gallery-stockindicators-3-14-patch": {
             "jsfiles": [
                 "StockIndicatorsPatchBase.js",
+                "CanvasGraphicPatch3-14.js",
                 "AxisPatch3-14.js",
                 "MarkerPatch3-14.js",
                 "ColumnPatch3-14.js",
